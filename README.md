@@ -33,7 +33,6 @@ customer-purchase-analysis/
 ├── notebook/
 ├── sql/
 ├── screenshots/
-├── shopping.db
 ├── README.md
 └── insights.md
 ```
