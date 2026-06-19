@@ -30,12 +30,18 @@ The dataset contains 3900 customer transactions and includes information about:
 customer-purchase-analysis/
 │
 ├── data/
+│   ├── shopping_trends.csv
+│   └── shopping_trends_updated.csv
+│
 ├── notebook/
+│   └── data_loading.ipynb
+│
 ├── sql/
-├── screenshots/
+│   ├── create_table.sql
+│   └── data_analysis.sql
+│
 ├── README.md
 └── insights.md
-```
 
 ## Key Analyses
 
